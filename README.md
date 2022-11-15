@@ -7,6 +7,6 @@ dalších kurzů; domnívám se o kurzech Typescript a Angular/Node.js
 Projekt proto vypracovávám jako sérii webových stránek - použito je HTML5,CSS3,Javascript,PHP,MySQL.
 Vzhled stránky je primárně řešen přes styly z bootstrapu.
 
-Projekt z větší části splňuje minimální požadavky pokročilé verze zadání - chybí možnost výpisu všech pojištěnců, smazání pojištění.
-Tyto možnosti přidám časem, projekt mě nadchl a hodlám v něm i nadaále pokračovat. 
+Projekt z větší části splňuje minimální požadavky pokročilé verze zadání - chybí možnost výpisu všech pojištěnců, smazání pojištění, rozložení projektu do složek.
+Tyto možnosti přidám časem, projekt mě nadchl a hodlám v něm i nadále pokračovat. 
 Je škoda, že díky komplikacím popsaným výše (a následně časového presu) není hotový už teď.
